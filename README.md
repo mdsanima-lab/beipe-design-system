@@ -1,2 +1,3 @@
-# beipe-logo
+# BEIPE Logo
+
 Beipe Logo Design
