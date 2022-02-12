@@ -1,0 +1,1504 @@
+Composition {
+	CurrentTime = 0,
+	RenderRange = { 0, 0 },
+	GlobalRange = { 0, 1000 },
+	CurrentID = 85,
+	PlaybackUpdateMode = 0,
+	Version = "Fusion 9.0.2 build 15",
+	SavedOutputs = 0,
+	HeldTools = 0,
+	DisabledTools = 0,
+	LockedTools = 0,
+	AudioOffset = 0,
+	Resumable = true,
+	OutputClips = {
+		"J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\beipe_one_v1_cloud_abstract.png",
+		"J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_two_v3_cloud_abstract.png",
+		"J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_two_v2_cloud_abstract.png",
+		"J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_two_v1_cloud_abstract.png",
+		"J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_one_v3_cloud_abstract.png",
+		"J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_one_v2_cloud_abstract.png",
+		"J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_one_v1_cloud_abstract.png",
+		"J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\beipe_one_v3_cloud_abstract.png",
+		"J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\beipe_one_v2_cloud_abstract.png"
+	},
+	Tools = {
+		Loader1 = Loader {
+			Clips = {
+				Clip {
+					ID = "Clip1",
+					Filename = "J:\\github-mdsanima-dev\\beipe-logo\\src\\render\\cloud_abstract\\beipe_one_v1_cloud_light.exr",
+					FormatID = "OpenEXRFormat",
+					StartFrame = -1,
+					LengthSetManually = true,
+					TrimIn = 0,
+					TrimOut = 0,
+					ExtendFirst = 0,
+					ExtendLast = 0,
+					Loop = 0,
+					AspectMode = 0,
+					Depth = 0,
+					TimeCode = 0,
+					GlobalStart = 0,
+					GlobalEnd = 0
+				}
+			},
+			Inputs = {
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				["Clip1.OpenEXRFormat.RedName"] = Input { Value = FuID { "R" }, },
+				["Clip1.OpenEXRFormat.GreenName"] = Input { Value = FuID { "G" }, },
+				["Clip1.OpenEXRFormat.BlueName"] = Input { Value = FuID { "B" }, },
+				["Clip1.OpenEXRFormat.AlphaName"] = Input { Value = FuID { "A" }, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, 313.5 } },
+		},
+		Loader9 = Loader {
+			Clips = {
+				Clip {
+					ID = "Clip1",
+					Filename = "J:\\github-mdsanima-dev\\beipe-logo\\src\\render\\cloud_abstract\\bp_two_v3_cloud_light.exr",
+					FormatID = "OpenEXRFormat",
+					StartFrame = -1,
+					LengthSetManually = true,
+					TrimIn = 0,
+					TrimOut = 0,
+					ExtendFirst = 0,
+					ExtendLast = 0,
+					Loop = 0,
+					AspectMode = 0,
+					Depth = 0,
+					TimeCode = 0,
+					GlobalStart = 0,
+					GlobalEnd = 0
+				}
+			},
+			Inputs = {
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				["Clip1.OpenEXRFormat.RedName"] = Input { Value = FuID { "R" }, },
+				["Clip1.OpenEXRFormat.GreenName"] = Input { Value = FuID { "G" }, },
+				["Clip1.OpenEXRFormat.BlueName"] = Input { Value = FuID { "B" }, },
+				["Clip1.OpenEXRFormat.AlphaName"] = Input { Value = FuID { "A" }, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, 643.5 } },
+		},
+		Loader8 = Loader {
+			Clips = {
+				Clip {
+					ID = "Clip1",
+					Filename = "J:\\github-mdsanima-dev\\beipe-logo\\src\\render\\cloud_abstract\\bp_two_v2_cloud_light.exr",
+					FormatID = "OpenEXRFormat",
+					StartFrame = -1,
+					LengthSetManually = true,
+					TrimIn = 0,
+					TrimOut = 0,
+					ExtendFirst = 0,
+					ExtendLast = 0,
+					Loop = 0,
+					AspectMode = 0,
+					Depth = 0,
+					TimeCode = 0,
+					GlobalStart = 0,
+					GlobalEnd = 0
+				}
+			},
+			Inputs = {
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				["Clip1.OpenEXRFormat.RedName"] = Input { Value = FuID { "R" }, },
+				["Clip1.OpenEXRFormat.GreenName"] = Input { Value = FuID { "G" }, },
+				["Clip1.OpenEXRFormat.BlueName"] = Input { Value = FuID { "B" }, },
+				["Clip1.OpenEXRFormat.AlphaName"] = Input { Value = FuID { "A" }, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, 610.5 } },
+		},
+		Loader7 = Loader {
+			Clips = {
+				Clip {
+					ID = "Clip1",
+					Filename = "J:\\github-mdsanima-dev\\beipe-logo\\src\\render\\cloud_abstract\\bp_two_v1_cloud_light.exr",
+					FormatID = "OpenEXRFormat",
+					StartFrame = -1,
+					LengthSetManually = true,
+					TrimIn = 0,
+					TrimOut = 0,
+					ExtendFirst = 0,
+					ExtendLast = 0,
+					Loop = 0,
+					AspectMode = 0,
+					Depth = 0,
+					TimeCode = 0,
+					GlobalStart = 0,
+					GlobalEnd = 0
+				}
+			},
+			Inputs = {
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				["Clip1.OpenEXRFormat.RedName"] = Input { Value = FuID { "R" }, },
+				["Clip1.OpenEXRFormat.GreenName"] = Input { Value = FuID { "G" }, },
+				["Clip1.OpenEXRFormat.BlueName"] = Input { Value = FuID { "B" }, },
+				["Clip1.OpenEXRFormat.AlphaName"] = Input { Value = FuID { "A" }, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, 577.5 } },
+		},
+		Loader6 = Loader {
+			Clips = {
+				Clip {
+					ID = "Clip1",
+					Filename = "J:\\github-mdsanima-dev\\beipe-logo\\src\\render\\cloud_abstract\\bp_one_v3_cloud_light.exr",
+					FormatID = "OpenEXRFormat",
+					StartFrame = -1,
+					LengthSetManually = true,
+					TrimIn = 0,
+					TrimOut = 0,
+					ExtendFirst = 0,
+					ExtendLast = 0,
+					Loop = 0,
+					AspectMode = 0,
+					Depth = 0,
+					TimeCode = 0,
+					GlobalStart = 0,
+					GlobalEnd = 0
+				}
+			},
+			Inputs = {
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				["Clip1.OpenEXRFormat.RedName"] = Input { Value = FuID { "R" }, },
+				["Clip1.OpenEXRFormat.GreenName"] = Input { Value = FuID { "G" }, },
+				["Clip1.OpenEXRFormat.BlueName"] = Input { Value = FuID { "B" }, },
+				["Clip1.OpenEXRFormat.AlphaName"] = Input { Value = FuID { "A" }, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, 511.5 } },
+		},
+		Loader5 = Loader {
+			Clips = {
+				Clip {
+					ID = "Clip1",
+					Filename = "J:\\github-mdsanima-dev\\beipe-logo\\src\\render\\cloud_abstract\\bp_one_v2_cloud_light.exr",
+					FormatID = "OpenEXRFormat",
+					StartFrame = -1,
+					LengthSetManually = true,
+					TrimIn = 0,
+					TrimOut = 0,
+					ExtendFirst = 0,
+					ExtendLast = 0,
+					Loop = 0,
+					AspectMode = 0,
+					Depth = 0,
+					TimeCode = 0,
+					GlobalStart = 0,
+					GlobalEnd = 0
+				}
+			},
+			Inputs = {
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				["Clip1.OpenEXRFormat.RedName"] = Input { Value = FuID { "R" }, },
+				["Clip1.OpenEXRFormat.GreenName"] = Input { Value = FuID { "G" }, },
+				["Clip1.OpenEXRFormat.BlueName"] = Input { Value = FuID { "B" }, },
+				["Clip1.OpenEXRFormat.AlphaName"] = Input { Value = FuID { "A" }, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, 478.5 } },
+		},
+		Loader4 = Loader {
+			Clips = {
+				Clip {
+					ID = "Clip1",
+					Filename = "J:\\github-mdsanima-dev\\beipe-logo\\src\\render\\cloud_abstract\\bp_one_v1_cloud_light.exr",
+					FormatID = "OpenEXRFormat",
+					StartFrame = -1,
+					LengthSetManually = true,
+					TrimIn = 0,
+					TrimOut = 0,
+					ExtendFirst = 0,
+					ExtendLast = 0,
+					Loop = 0,
+					AspectMode = 0,
+					Depth = 0,
+					TimeCode = 0,
+					GlobalStart = 0,
+					GlobalEnd = 0
+				}
+			},
+			Inputs = {
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				["Clip1.OpenEXRFormat.RedName"] = Input { Value = FuID { "R" }, },
+				["Clip1.OpenEXRFormat.GreenName"] = Input { Value = FuID { "G" }, },
+				["Clip1.OpenEXRFormat.BlueName"] = Input { Value = FuID { "B" }, },
+				["Clip1.OpenEXRFormat.AlphaName"] = Input { Value = FuID { "A" }, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, 445.5 } },
+		},
+		Loader3 = Loader {
+			Clips = {
+				Clip {
+					ID = "Clip1",
+					Filename = "J:\\github-mdsanima-dev\\beipe-logo\\src\\render\\cloud_abstract\\beipe_one_v3_cloud_light.exr",
+					FormatID = "OpenEXRFormat",
+					StartFrame = -1,
+					LengthSetManually = true,
+					TrimIn = 0,
+					TrimOut = 0,
+					ExtendFirst = 0,
+					ExtendLast = 0,
+					Loop = 0,
+					AspectMode = 0,
+					Depth = 0,
+					TimeCode = 0,
+					GlobalStart = 0,
+					GlobalEnd = 0
+				}
+			},
+			Inputs = {
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				["Clip1.OpenEXRFormat.RedName"] = Input { Value = FuID { "R" }, },
+				["Clip1.OpenEXRFormat.GreenName"] = Input { Value = FuID { "G" }, },
+				["Clip1.OpenEXRFormat.BlueName"] = Input { Value = FuID { "B" }, },
+				["Clip1.OpenEXRFormat.AlphaName"] = Input { Value = FuID { "A" }, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, 379.5 } },
+		},
+		Loader2 = Loader {
+			Clips = {
+				Clip {
+					ID = "Clip1",
+					Filename = "J:\\github-mdsanima-dev\\beipe-logo\\src\\render\\cloud_abstract\\beipe_one_v2_cloud_light.exr",
+					FormatID = "OpenEXRFormat",
+					StartFrame = -1,
+					LengthSetManually = true,
+					TrimIn = 0,
+					TrimOut = 0,
+					ExtendFirst = 0,
+					ExtendLast = 0,
+					Loop = 0,
+					AspectMode = 0,
+					Depth = 0,
+					TimeCode = 0,
+					GlobalStart = 0,
+					GlobalEnd = 0
+				}
+			},
+			Inputs = {
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				["Clip1.OpenEXRFormat.RedName"] = Input { Value = FuID { "R" }, },
+				["Clip1.OpenEXRFormat.GreenName"] = Input { Value = FuID { "G" }, },
+				["Clip1.OpenEXRFormat.BlueName"] = Input { Value = FuID { "B" }, },
+				["Clip1.OpenEXRFormat.AlphaName"] = Input { Value = FuID { "A" }, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, 346.5 } },
+		},
+		BrightnessContrast1 = BrightnessContrast {
+			Inputs = {
+				Gamma = Input { Value = 1.5, },
+				Input = Input {
+					SourceOp = "Loader1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 825, 313.5 } },
+		},
+		ColorCorrector1 = ColorCorrector {
+			Inputs = {
+				MasterRGBContrast = Input { Value = 1.188, },
+				MasterRGBGain = Input { Value = 1.274, },
+				MasterRGBLift = Input { Value = 0.034, },
+				MasterRGBGamma = Input { Value = 0.812, },
+				MasterRGBBrightness = Input { Value = 0.051, },
+				ColorRanges = Input {
+					Value = ColorCurves {
+						Curves = {
+							{
+								Points = {
+									{ 0, 1 },
+									{ 0.4, 0.2 },
+									{ 0.6, 0 },
+									{ 1, 0 }
+								}
+							},
+							{
+								Points = {
+									{ 0, 0 },
+									{ 0.4, 0 },
+									{ 0.6, 0.2 },
+									{ 1, 1 }
+								}
+							}
+						}
+					},
+				},
+				HistogramIgnoreTransparent = Input { Value = 1, },
+				Input = Input {
+					SourceOp = "BrightnessContrast1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 935, 313.5 } },
+		},
+		XfChromaFuse1 = Fuse.XfChroma {
+			Inputs = {
+				Size = Input { Value = 1.01, },
+				Aspect = Input { Value = 1.01, },
+				XSize = Input { Value = 1.01, },
+				YSize = Input { Value = 1.0201, },
+				Gradient = Input {
+					Value = Gradient {
+						Colors = {
+							[0] = { 1, 0, 0, 1 },
+							[0.5] = { 0, 1, 0, 1 },
+							[1] = { 0, 0, 1, 1 }
+						}
+					},
+				},
+				NewTool = Input { Value = 0, },
+				Input = Input {
+					SourceOp = "ColorCorrector1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1100, 313.5 } },
+			Version = 160
+		},
+		Scale1 = Scale {
+			Inputs = {
+				XSize = Input { Value = 0.5, },
+				PixelAspect = Input { Value = { 1, 1 }, },
+				Input = Input {
+					SourceOp = "XfChromaFuse1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1265, 313.5 } },
+		},
+		Saver1 = Saver {
+			Inputs = {
+				ProcessWhenBlendIs00 = Input { Value = 0, },
+				Clip = Input {
+					Value = Clip {
+						Filename = "J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\beipe_one_v1_cloud_abstract.png",
+						FormatID = "PNGFormat",
+						Length = 0,
+						Saving = true,
+						TrimIn = 0,
+						ExtendFirst = 0,
+						ExtendLast = 0,
+						Loop = 1,
+						AspectMode = 0,
+						Depth = 0,
+						GlobalStart = -2000000000,
+						GlobalEnd = 0
+					},
+				},
+				OutputFormat = Input { Value = FuID { "PNGFormat" }, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "Scale1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1430, 313.5 } },
+		},
+		BrightnessContrast1_8 = BrightnessContrast {
+			Inputs = {
+				Gamma = Input { Value = 1.5, },
+				Input = Input {
+					SourceOp = "Loader9",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 825, 643.5 } },
+		},
+		ColorCorrector1_8 = ColorCorrector {
+			Inputs = {
+				MasterRGBContrast = Input { Value = 1.188, },
+				MasterRGBGain = Input { Value = 1.274, },
+				MasterRGBLift = Input { Value = 0.034, },
+				MasterRGBGamma = Input { Value = 0.812, },
+				MasterRGBBrightness = Input { Value = 0.051, },
+				ColorRanges = Input {
+					Value = ColorCurves {
+						Curves = {
+							{
+								Points = {
+									{ 0, 1 },
+									{ 0.4, 0.2 },
+									{ 0.6, 0 },
+									{ 1, 0 }
+								}
+							},
+							{
+								Points = {
+									{ 0, 0 },
+									{ 0.4, 0 },
+									{ 0.6, 0.2 },
+									{ 1, 1 }
+								}
+							}
+						}
+					},
+				},
+				HistogramIgnoreTransparent = Input { Value = 1, },
+				Input = Input {
+					SourceOp = "BrightnessContrast1_8",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 935, 643.5 } },
+		},
+		XfChromaFuse1_8 = Fuse.XfChroma {
+			Inputs = {
+				Size = Input { Value = 1.01, },
+				Aspect = Input { Value = 1.01, },
+				XSize = Input { Value = 1.01, },
+				YSize = Input { Value = 1.0201, },
+				Gradient = Input {
+					Value = Gradient {
+						Colors = {
+							[0] = { 1, 0, 0, 1 },
+							[0.5] = { 0, 1, 0, 1 },
+							[1] = { 0, 0, 1, 1 }
+						}
+					},
+				},
+				NewTool = Input { Value = 0, },
+				Input = Input {
+					SourceOp = "ColorCorrector1_8",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1100, 643.5 } },
+			Version = 160
+		},
+		Scale1_8 = Scale {
+			CtrlWZoom = false,
+			Inputs = {
+				XSize = Input { Value = 0.5, },
+				PixelAspect = Input { Value = { 1, 1 }, },
+				Input = Input {
+					SourceOp = "XfChromaFuse1_8",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1265, 643.5 } },
+		},
+		Saver1_8 = Saver {
+			Inputs = {
+				ProcessWhenBlendIs00 = Input { Value = 0, },
+				Clip = Input {
+					Value = Clip {
+						Filename = "J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_two_v3_cloud_abstract.png",
+						FormatID = "PNGFormat",
+						Length = 0,
+						Saving = true,
+						TrimIn = 0,
+						ExtendFirst = 0,
+						ExtendLast = 0,
+						Loop = 1,
+						AspectMode = 0,
+						Depth = 0,
+						GlobalStart = -2000000000,
+						GlobalEnd = 0
+					},
+				},
+				OutputFormat = Input { Value = FuID { "PNGFormat" }, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "Scale1_8",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1430, 643.5 } },
+		},
+		BrightnessContrast1_7 = BrightnessContrast {
+			Inputs = {
+				Gamma = Input { Value = 1.5, },
+				Input = Input {
+					SourceOp = "Loader8",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 825, 610.5 } },
+		},
+		ColorCorrector1_7 = ColorCorrector {
+			Inputs = {
+				MasterRGBContrast = Input { Value = 1.188, },
+				MasterRGBGain = Input { Value = 1.274, },
+				MasterRGBLift = Input { Value = 0.034, },
+				MasterRGBGamma = Input { Value = 0.812, },
+				MasterRGBBrightness = Input { Value = 0.051, },
+				ColorRanges = Input {
+					Value = ColorCurves {
+						Curves = {
+							{
+								Points = {
+									{ 0, 1 },
+									{ 0.4, 0.2 },
+									{ 0.6, 0 },
+									{ 1, 0 }
+								}
+							},
+							{
+								Points = {
+									{ 0, 0 },
+									{ 0.4, 0 },
+									{ 0.6, 0.2 },
+									{ 1, 1 }
+								}
+							}
+						}
+					},
+				},
+				HistogramIgnoreTransparent = Input { Value = 1, },
+				Input = Input {
+					SourceOp = "BrightnessContrast1_7",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 935, 610.5 } },
+		},
+		XfChromaFuse1_7 = Fuse.XfChroma {
+			Inputs = {
+				Size = Input { Value = 1.01, },
+				Aspect = Input { Value = 1.01, },
+				XSize = Input { Value = 1.01, },
+				YSize = Input { Value = 1.0201, },
+				Gradient = Input {
+					Value = Gradient {
+						Colors = {
+							[0] = { 1, 0, 0, 1 },
+							[0.5] = { 0, 1, 0, 1 },
+							[1] = { 0, 0, 1, 1 }
+						}
+					},
+				},
+				NewTool = Input { Value = 0, },
+				Input = Input {
+					SourceOp = "ColorCorrector1_7",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1100, 610.5 } },
+			Version = 160
+		},
+		Scale1_7 = Scale {
+			Inputs = {
+				XSize = Input { Value = 0.5, },
+				PixelAspect = Input { Value = { 1, 1 }, },
+				Input = Input {
+					SourceOp = "XfChromaFuse1_7",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1265, 610.5 } },
+		},
+		Saver1_7 = Saver {
+			Inputs = {
+				ProcessWhenBlendIs00 = Input { Value = 0, },
+				Clip = Input {
+					Value = Clip {
+						Filename = "J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_two_v2_cloud_abstract.png",
+						FormatID = "PNGFormat",
+						Length = 0,
+						Saving = true,
+						TrimIn = 0,
+						ExtendFirst = 0,
+						ExtendLast = 0,
+						Loop = 1,
+						AspectMode = 0,
+						Depth = 0,
+						GlobalStart = -2000000000,
+						GlobalEnd = 0
+					},
+				},
+				OutputFormat = Input { Value = FuID { "PNGFormat" }, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "Scale1_7",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1430, 610.5 } },
+		},
+		BrightnessContrast1_6 = BrightnessContrast {
+			Inputs = {
+				Gamma = Input { Value = 1.5, },
+				Input = Input {
+					SourceOp = "Loader7",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 825, 577.5 } },
+		},
+		ColorCorrector1_6 = ColorCorrector {
+			Inputs = {
+				MasterRGBContrast = Input { Value = 1.188, },
+				MasterRGBGain = Input { Value = 1.274, },
+				MasterRGBLift = Input { Value = 0.034, },
+				MasterRGBGamma = Input { Value = 0.812, },
+				MasterRGBBrightness = Input { Value = 0.051, },
+				ColorRanges = Input {
+					Value = ColorCurves {
+						Curves = {
+							{
+								Points = {
+									{ 0, 1 },
+									{ 0.4, 0.2 },
+									{ 0.6, 0 },
+									{ 1, 0 }
+								}
+							},
+							{
+								Points = {
+									{ 0, 0 },
+									{ 0.4, 0 },
+									{ 0.6, 0.2 },
+									{ 1, 1 }
+								}
+							}
+						}
+					},
+				},
+				HistogramIgnoreTransparent = Input { Value = 1, },
+				Input = Input {
+					SourceOp = "BrightnessContrast1_6",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 935, 577.5 } },
+		},
+		XfChromaFuse1_6 = Fuse.XfChroma {
+			Inputs = {
+				Size = Input { Value = 1.01, },
+				Aspect = Input { Value = 1.01, },
+				XSize = Input { Value = 1.01, },
+				YSize = Input { Value = 1.0201, },
+				Gradient = Input {
+					Value = Gradient {
+						Colors = {
+							[0] = { 1, 0, 0, 1 },
+							[0.5] = { 0, 1, 0, 1 },
+							[1] = { 0, 0, 1, 1 }
+						}
+					},
+				},
+				NewTool = Input { Value = 0, },
+				Input = Input {
+					SourceOp = "ColorCorrector1_6",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1100, 577.5 } },
+			Version = 160
+		},
+		Scale1_6 = Scale {
+			Inputs = {
+				XSize = Input { Value = 0.5, },
+				PixelAspect = Input { Value = { 1, 1 }, },
+				Input = Input {
+					SourceOp = "XfChromaFuse1_6",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1265, 577.5 } },
+		},
+		Saver1_6 = Saver {
+			Inputs = {
+				ProcessWhenBlendIs00 = Input { Value = 0, },
+				Clip = Input {
+					Value = Clip {
+						Filename = "J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_two_v1_cloud_abstract.png",
+						FormatID = "PNGFormat",
+						Length = 0,
+						Saving = true,
+						TrimIn = 0,
+						ExtendFirst = 0,
+						ExtendLast = 0,
+						Loop = 1,
+						AspectMode = 0,
+						Depth = 0,
+						GlobalStart = -2000000000,
+						GlobalEnd = 0
+					},
+				},
+				OutputFormat = Input { Value = FuID { "PNGFormat" }, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "Scale1_6",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1430, 577.5 } },
+		},
+		BrightnessContrast1_5 = BrightnessContrast {
+			Inputs = {
+				Gamma = Input { Value = 1.5, },
+				Input = Input {
+					SourceOp = "Loader6",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 825, 511.5 } },
+		},
+		ColorCorrector1_5 = ColorCorrector {
+			Inputs = {
+				MasterRGBContrast = Input { Value = 1.188, },
+				MasterRGBGain = Input { Value = 1.274, },
+				MasterRGBLift = Input { Value = 0.034, },
+				MasterRGBGamma = Input { Value = 0.812, },
+				MasterRGBBrightness = Input { Value = 0.051, },
+				ColorRanges = Input {
+					Value = ColorCurves {
+						Curves = {
+							{
+								Points = {
+									{ 0, 1 },
+									{ 0.4, 0.2 },
+									{ 0.6, 0 },
+									{ 1, 0 }
+								}
+							},
+							{
+								Points = {
+									{ 0, 0 },
+									{ 0.4, 0 },
+									{ 0.6, 0.2 },
+									{ 1, 1 }
+								}
+							}
+						}
+					},
+				},
+				HistogramIgnoreTransparent = Input { Value = 1, },
+				Input = Input {
+					SourceOp = "BrightnessContrast1_5",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 935, 511.5 } },
+		},
+		XfChromaFuse1_5 = Fuse.XfChroma {
+			Inputs = {
+				Size = Input { Value = 1.01, },
+				Aspect = Input { Value = 1.01, },
+				XSize = Input { Value = 1.01, },
+				YSize = Input { Value = 1.0201, },
+				Gradient = Input {
+					Value = Gradient {
+						Colors = {
+							[0] = { 1, 0, 0, 1 },
+							[0.5] = { 0, 1, 0, 1 },
+							[1] = { 0, 0, 1, 1 }
+						}
+					},
+				},
+				NewTool = Input { Value = 0, },
+				Input = Input {
+					SourceOp = "ColorCorrector1_5",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1100, 511.5 } },
+			Version = 160
+		},
+		Scale1_5 = Scale {
+			Inputs = {
+				XSize = Input { Value = 0.5, },
+				PixelAspect = Input { Value = { 1, 1 }, },
+				Input = Input {
+					SourceOp = "XfChromaFuse1_5",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1265, 511.5 } },
+		},
+		Saver1_5 = Saver {
+			Inputs = {
+				ProcessWhenBlendIs00 = Input { Value = 0, },
+				Clip = Input {
+					Value = Clip {
+						Filename = "J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_one_v3_cloud_abstract.png",
+						FormatID = "PNGFormat",
+						Length = 0,
+						Saving = true,
+						TrimIn = 0,
+						ExtendFirst = 0,
+						ExtendLast = 0,
+						Loop = 1,
+						AspectMode = 0,
+						Depth = 0,
+						GlobalStart = -2000000000,
+						GlobalEnd = 0
+					},
+				},
+				OutputFormat = Input { Value = FuID { "PNGFormat" }, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "Scale1_5",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1430, 511.5 } },
+		},
+		BrightnessContrast1_4 = BrightnessContrast {
+			Inputs = {
+				Gamma = Input { Value = 1.5, },
+				Input = Input {
+					SourceOp = "Loader5",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 825, 478.5 } },
+		},
+		ColorCorrector1_4 = ColorCorrector {
+			Inputs = {
+				MasterRGBContrast = Input { Value = 1.188, },
+				MasterRGBGain = Input { Value = 1.274, },
+				MasterRGBLift = Input { Value = 0.034, },
+				MasterRGBGamma = Input { Value = 0.812, },
+				MasterRGBBrightness = Input { Value = 0.051, },
+				ColorRanges = Input {
+					Value = ColorCurves {
+						Curves = {
+							{
+								Points = {
+									{ 0, 1 },
+									{ 0.4, 0.2 },
+									{ 0.6, 0 },
+									{ 1, 0 }
+								}
+							},
+							{
+								Points = {
+									{ 0, 0 },
+									{ 0.4, 0 },
+									{ 0.6, 0.2 },
+									{ 1, 1 }
+								}
+							}
+						}
+					},
+				},
+				HistogramIgnoreTransparent = Input { Value = 1, },
+				Input = Input {
+					SourceOp = "BrightnessContrast1_4",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 935, 478.5 } },
+		},
+		XfChromaFuse1_4 = Fuse.XfChroma {
+			Inputs = {
+				Size = Input { Value = 1.01, },
+				Aspect = Input { Value = 1.01, },
+				XSize = Input { Value = 1.01, },
+				YSize = Input { Value = 1.0201, },
+				Gradient = Input {
+					Value = Gradient {
+						Colors = {
+							[0] = { 1, 0, 0, 1 },
+							[0.5] = { 0, 1, 0, 1 },
+							[1] = { 0, 0, 1, 1 }
+						}
+					},
+				},
+				NewTool = Input { Value = 0, },
+				Input = Input {
+					SourceOp = "ColorCorrector1_4",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1100, 478.5 } },
+			Version = 160
+		},
+		Scale1_4 = Scale {
+			Inputs = {
+				XSize = Input { Value = 0.5, },
+				PixelAspect = Input { Value = { 1, 1 }, },
+				Input = Input {
+					SourceOp = "XfChromaFuse1_4",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1265, 478.5 } },
+		},
+		Saver1_4 = Saver {
+			Inputs = {
+				ProcessWhenBlendIs00 = Input { Value = 0, },
+				Clip = Input {
+					Value = Clip {
+						Filename = "J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_one_v2_cloud_abstract.png",
+						FormatID = "PNGFormat",
+						Length = 0,
+						Saving = true,
+						TrimIn = 0,
+						ExtendFirst = 0,
+						ExtendLast = 0,
+						Loop = 1,
+						AspectMode = 0,
+						Depth = 0,
+						GlobalStart = -2000000000,
+						GlobalEnd = 0
+					},
+				},
+				OutputFormat = Input { Value = FuID { "PNGFormat" }, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "Scale1_4",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1430, 478.5 } },
+		},
+		BrightnessContrast1_3 = BrightnessContrast {
+			Inputs = {
+				Gamma = Input { Value = 1.5, },
+				Input = Input {
+					SourceOp = "Loader4",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 825, 445.5 } },
+		},
+		ColorCorrector1_3 = ColorCorrector {
+			Inputs = {
+				MasterRGBContrast = Input { Value = 1.188, },
+				MasterRGBGain = Input { Value = 1.274, },
+				MasterRGBLift = Input { Value = 0.034, },
+				MasterRGBGamma = Input { Value = 0.812, },
+				MasterRGBBrightness = Input { Value = 0.051, },
+				ColorRanges = Input {
+					Value = ColorCurves {
+						Curves = {
+							{
+								Points = {
+									{ 0, 1 },
+									{ 0.4, 0.2 },
+									{ 0.6, 0 },
+									{ 1, 0 }
+								}
+							},
+							{
+								Points = {
+									{ 0, 0 },
+									{ 0.4, 0 },
+									{ 0.6, 0.2 },
+									{ 1, 1 }
+								}
+							}
+						}
+					},
+				},
+				HistogramIgnoreTransparent = Input { Value = 1, },
+				Input = Input {
+					SourceOp = "BrightnessContrast1_3",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 935, 445.5 } },
+		},
+		XfChromaFuse1_3 = Fuse.XfChroma {
+			Inputs = {
+				Size = Input { Value = 1.01, },
+				Aspect = Input { Value = 1.01, },
+				XSize = Input { Value = 1.01, },
+				YSize = Input { Value = 1.0201, },
+				Gradient = Input {
+					Value = Gradient {
+						Colors = {
+							[0] = { 1, 0, 0, 1 },
+							[0.5] = { 0, 1, 0, 1 },
+							[1] = { 0, 0, 1, 1 }
+						}
+					},
+				},
+				NewTool = Input { Value = 0, },
+				Input = Input {
+					SourceOp = "ColorCorrector1_3",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1100, 445.5 } },
+			Version = 160
+		},
+		Scale1_3 = Scale {
+			Inputs = {
+				XSize = Input { Value = 0.5, },
+				PixelAspect = Input { Value = { 1, 1 }, },
+				Input = Input {
+					SourceOp = "XfChromaFuse1_3",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1265, 445.5 } },
+		},
+		Saver1_3 = Saver {
+			Inputs = {
+				ProcessWhenBlendIs00 = Input { Value = 0, },
+				Clip = Input {
+					Value = Clip {
+						Filename = "J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\bp_one_v1_cloud_abstract.png",
+						FormatID = "PNGFormat",
+						Length = 0,
+						Saving = true,
+						TrimIn = 0,
+						ExtendFirst = 0,
+						ExtendLast = 0,
+						Loop = 1,
+						AspectMode = 0,
+						Depth = 0,
+						GlobalStart = -2000000000,
+						GlobalEnd = 0
+					},
+				},
+				OutputFormat = Input { Value = FuID { "PNGFormat" }, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "Scale1_3",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1430, 445.5 } },
+		},
+		BrightnessContrast1_2 = BrightnessContrast {
+			Inputs = {
+				Gamma = Input { Value = 1.5, },
+				Input = Input {
+					SourceOp = "Loader3",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 825, 379.5 } },
+		},
+		ColorCorrector1_2 = ColorCorrector {
+			Inputs = {
+				MasterRGBContrast = Input { Value = 1.188, },
+				MasterRGBGain = Input { Value = 1.274, },
+				MasterRGBLift = Input { Value = 0.034, },
+				MasterRGBGamma = Input { Value = 0.812, },
+				MasterRGBBrightness = Input { Value = 0.051, },
+				ColorRanges = Input {
+					Value = ColorCurves {
+						Curves = {
+							{
+								Points = {
+									{ 0, 1 },
+									{ 0.4, 0.2 },
+									{ 0.6, 0 },
+									{ 1, 0 }
+								}
+							},
+							{
+								Points = {
+									{ 0, 0 },
+									{ 0.4, 0 },
+									{ 0.6, 0.2 },
+									{ 1, 1 }
+								}
+							}
+						}
+					},
+				},
+				HistogramIgnoreTransparent = Input { Value = 1, },
+				Input = Input {
+					SourceOp = "BrightnessContrast1_2",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 935, 379.5 } },
+		},
+		XfChromaFuse1_2 = Fuse.XfChroma {
+			Inputs = {
+				Size = Input { Value = 1.01, },
+				Aspect = Input { Value = 1.01, },
+				XSize = Input { Value = 1.01, },
+				YSize = Input { Value = 1.0201, },
+				Gradient = Input {
+					Value = Gradient {
+						Colors = {
+							[0] = { 1, 0, 0, 1 },
+							[0.5] = { 0, 1, 0, 1 },
+							[1] = { 0, 0, 1, 1 }
+						}
+					},
+				},
+				NewTool = Input { Value = 0, },
+				Input = Input {
+					SourceOp = "ColorCorrector1_2",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1100, 379.5 } },
+			Version = 160
+		},
+		Scale1_2 = Scale {
+			Inputs = {
+				XSize = Input { Value = 0.5, },
+				PixelAspect = Input { Value = { 1, 1 }, },
+				Input = Input {
+					SourceOp = "XfChromaFuse1_2",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1265, 379.5 } },
+		},
+		Saver1_2 = Saver {
+			Inputs = {
+				ProcessWhenBlendIs00 = Input { Value = 0, },
+				Clip = Input {
+					Value = Clip {
+						Filename = "J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\beipe_one_v3_cloud_abstract.png",
+						FormatID = "PNGFormat",
+						Length = 0,
+						Saving = true,
+						TrimIn = 0,
+						ExtendFirst = 0,
+						ExtendLast = 0,
+						Loop = 1,
+						AspectMode = 0,
+						Depth = 0,
+						GlobalStart = -2000000000,
+						GlobalEnd = 0
+					},
+				},
+				OutputFormat = Input { Value = FuID { "PNGFormat" }, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "Scale1_2",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1430, 379.5 } },
+		},
+		BrightnessContrast1_1 = BrightnessContrast {
+			Inputs = {
+				Gamma = Input { Value = 1.5, },
+				Input = Input {
+					SourceOp = "Loader2",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 825, 346.5 } },
+		},
+		ColorCorrector1_1 = ColorCorrector {
+			Inputs = {
+				MasterRGBContrast = Input { Value = 1.188, },
+				MasterRGBGain = Input { Value = 1.274, },
+				MasterRGBLift = Input { Value = 0.034, },
+				MasterRGBGamma = Input { Value = 0.812, },
+				MasterRGBBrightness = Input { Value = 0.051, },
+				ColorRanges = Input {
+					Value = ColorCurves {
+						Curves = {
+							{
+								Points = {
+									{ 0, 1 },
+									{ 0.4, 0.2 },
+									{ 0.6, 0 },
+									{ 1, 0 }
+								}
+							},
+							{
+								Points = {
+									{ 0, 0 },
+									{ 0.4, 0 },
+									{ 0.6, 0.2 },
+									{ 1, 1 }
+								}
+							}
+						}
+					},
+				},
+				HistogramIgnoreTransparent = Input { Value = 1, },
+				Input = Input {
+					SourceOp = "BrightnessContrast1_1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 935, 346.5 } },
+		},
+		XfChromaFuse1_1 = Fuse.XfChroma {
+			Inputs = {
+				Size = Input { Value = 1.01, },
+				Aspect = Input { Value = 1.01, },
+				XSize = Input { Value = 1.01, },
+				YSize = Input { Value = 1.0201, },
+				Gradient = Input {
+					Value = Gradient {
+						Colors = {
+							[0] = { 1, 0, 0, 1 },
+							[0.5] = { 0, 1, 0, 1 },
+							[1] = { 0, 0, 1, 1 }
+						}
+					},
+				},
+				NewTool = Input { Value = 0, },
+				Input = Input {
+					SourceOp = "ColorCorrector1_1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1100, 346.5 } },
+			Version = 160
+		},
+		Scale1_1 = Scale {
+			Inputs = {
+				XSize = Input { Value = 0.5, },
+				PixelAspect = Input { Value = { 1, 1 }, },
+				Input = Input {
+					SourceOp = "XfChromaFuse1_1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1265, 346.5 } },
+		},
+		Saver1_1 = Saver {
+			Inputs = {
+				ProcessWhenBlendIs00 = Input { Value = 0, },
+				Clip = Input {
+					Value = Clip {
+						Filename = "J:\\github-mdsanima-dev\\beipe-logo\\logo\\cloud_abstract\\beipe_one_v2_cloud_abstract.png",
+						FormatID = "PNGFormat",
+						Length = 0,
+						Saving = true,
+						TrimIn = 0,
+						ExtendFirst = 0,
+						ExtendLast = 0,
+						Loop = 1,
+						AspectMode = 0,
+						Depth = 0,
+						GlobalStart = -2000000000,
+						GlobalEnd = 0
+					},
+				},
+				OutputFormat = Input { Value = FuID { "PNGFormat" }, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "Scale1_1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1430, 346.5 } },
+		}
+	},
+	Views = {
+		{
+			FrameTypeID = "ChildFrame",
+			Mode = 3,
+			LayoutPreset = 0,
+			Left = 0,
+			Top = 27,
+			Width = 3840,
+			Height = 1961,
+			Views = ordered() {
+				Main = MultiView {
+					Active = "Flow",
+					ViewList = ordered() {
+						Flow = "FlowView",
+						Console = "ConsoleView",
+						Timeline = "TimelineView",
+						Spline = "SplineEditorView",
+						Info = "InfoView",
+						Chat = "ChatView"
+					},
+					Flow = FlowView {
+						Flags = {
+							AutoHideNavigator = true,
+							GridSnap = true,
+							AutoSnap = true,
+							RemoveRouters = true
+						},
+						NavigatorSize = { 200, 140 },
+						Direction = "Horizontal",
+						PipeStyle = "Direct",
+						Scale = 1,
+						Offset = { 212, -221 }
+					},
+					Timeline = TimelineView {
+						TreeControlState = {
+						},
+						DisplayMode = "All Tools",
+						ShowCurrentTimeTools = false,
+						Filter = "Show All",
+						ShowSelectedTools = false,
+						ShowAnimatedToolsOnly = false,
+						ShowEditBoxes = false,
+						KeyFrameView = {
+							Position = { Left = 150, Bottom = 350 },
+							ScaleX = 2.14424951267057,
+							OffsetX = -49.317738791423,
+							OffsetY = 0,
+							AutoScaling = "scroll",
+							AutoSnapTo = "frame",
+							AutoSnapToGuidelines = false,
+							GuidelinesGrabEnabled = true,
+							GuidelinesSnapTo = "frame"
+						},
+						Spreadsheet = { LeftPos = 150, Visible = false }
+					},
+					Spline = SplineEditorView {
+						LeftPos = 238,
+						ScaleX = 0.2,
+						ScaleY = 0.00338983050847458,
+						OffsetX = -3.8,
+						OffsetY = 0,
+						AutoScaling = "scroll",
+						AutoSnapTo = "frame",
+						AutoSnapToGuidelines = false,
+						GuidelinesSnapTo = "frame",
+						ShowKeyMarkers = false,
+						IndependentHandles = false,
+						ShowNonSplineModifiers = false,
+						GuidelinesGrabEnabled = true,
+						ShowOneToolOnly = false,
+						ShowSelectedTools = false,
+						ShowAllInputs = false,
+						Filter = "Show All"
+					},
+				},
+				Controls = MultiView {
+					Active = "Tools",
+					ViewList = ordered() {
+						Tools = "ControlView",
+						Modifiers = "ModifierView"
+					},
+				},
+				Left = "PreviewContainer",
+				Right = "PreviewContainer",
+				Transport = "TransportView",
+				Time = "TimeView"
+			},
+			Layout = {
+				Columns = 2,
+				RatioX = 1,
+				RatioY = 1,
+				{
+					Rows = 3,
+					RatioX = 0.458267716535433,
+					RatioY = 100,
+					{
+						Columns = 2,
+						RatioX = 1,
+						RatioY = 0.632960288001431,
+						{ ID = "Left", RatioX = 0.711869266055046, RatioY = 100, Pop = true },
+						{ ID = "Right", RatioX = 0.288130733944954, Pop = true },
+						Pop = true
+					},
+					{ ID = "Main", RatioY = 0.244158356066366, Pop = true },
+					{ ID = "Time", SnapY = 56, Flat = true }
+				},
+				{
+					Rows = 2,
+					PixelX = 342,
+					{ ID = "Controls", RatioX = 1, RatioY = 1 },
+					{ ID = "Transport", FixedY = -2 }
+				}
+			}
+		}
+	},
+	Prefs = {
+		Comp = {
+			Paths = {
+			},
+			LastFile = "D:\\scan-photogrammetry\\stairs_cagnari\\_data_source\\jpg\\stairs_cagnari_",
+			FrameFormat = {
+				GuideRatio = 1.77777777777778,
+			},
+			Views = {
+				View4 = {
+					PickH = 1,
+					FullScreen = false,
+					PickW = 1,
+					AlwaysOnTop = true
+				},
+				View1 = {
+					PickW = 1,
+					PickH = 1,
+					AlwaysOnTop = true,
+					FullScreen = false,
+				},
+				Left = {
+					Viewer = {
+						ScaleMode = 1,
+					},
+					ViewLUT = {
+						{
+							Tools = ordered() {
+								FusionViewLUT = ViewLUTOp {
+									CtrlWZoom = false,
+									NameSet = true,
+									Inputs = {
+									},
+								}
+							},
+							ID = "FusionViewLUT"
+						},
+						SelectedPlugin = "FusionViewLUT",
+						SelectedName = ""
+					}
+				},
+				View5 = {
+					PickH = 1,
+					FullScreen = false,
+					PickW = 1,
+					AlwaysOnTop = true
+				},
+				View3 = {
+					PickH = 1,
+					FullScreen = false,
+					PickW = 1,
+					AlwaysOnTop = true
+				},
+				View6 = {
+					PickH = 1,
+					FullScreen = false,
+					PickW = 1,
+					AlwaysOnTop = true
+				},
+				Right = {
+				},
+				View2 = {
+					PickH = 1,
+					FullScreen = false,
+					PickW = 1,
+					AlwaysOnTop = true
+				},
+			},
+			QuickTime = {
+			},
+			Unsorted = {
+				RenderSettings = {
+					Configs = {
+						Final = {
+							Quality = true,
+							MotionBlur = true,
+							UpdateMode = "Some",
+							UseNetwork = false,
+							SizeType = 1,
+							CustomWidth = 200,
+							CustomHeight = 160,
+							CustomAspect = true,
+							StepRender = false,
+							StepSize = 5,
+							PriorityClasses = "local",
+							ShowSlaves = false
+						},
+						Preview = {
+							Quality = false,
+							MotionBlur = true,
+							UpdateMode = "Some",
+							UseNetwork = false,
+							SizeType = 1,
+							CustomWidth = 200,
+							CustomHeight = 160,
+							CustomAspect = true,
+							StepRender = false,
+							StepSize = 5,
+							PriorityClasses = "local",
+							ShowSlaves = false
+						}
+					},
+					CurrentConfig = "Final",
+					PreviewConfig = "Preview"
+				}
+			},
+		}
+	}
+}
+
+ 
