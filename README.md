@@ -58,19 +58,29 @@ Colors options for all variants options.
 |:-:|:-:|
 | ![black][001-black] | ![white][002-white] |
 
-Colors Shades:
+| 003-cyan | 004-sky | 005-blue | 006-indigo | 007-violet |
+|:-:|:-:|:-:|:-:|:-:|
+| ![cyan][003-cyan] | ![sky][004-sky] | ![blue][005-blue] | ![indigo][006-indigo] | ![violet][007-violet] |
 
-| 003-cyan | 004-sky | 005-blue | 006-indigo | 007-violet | 008-purple | 009-fuchsia | 010-pink | 011-rose |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ![cyan][003-cyan] | ![sky][004-sky] | ![blue][005-blue] | ![indigo][006-indigo] | ![violet][007-violet] | ![purple][008-purple] | ![fuchsia][009-fuchsia] | ![pink][010-pink] | ![rose][011-rose] |
+| 008-purple | 009-fuchsia | 010-pink | 011-rose | 012-red |
+|:-:|:-:|:-:|:-:|:-:|
+| ![purple][008-purple] | ![fuchsia][009-fuchsia] | ![pink][010-pink] | ![rose][011-rose] | ![red][012-red] |
 
-| 012-red | 013-orange | 014-amber | 015-yellow | 016-lime | 017-green | 018-emerald | 019-teal | 020-stone |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ![red][012-red] | ![orange][013-orange] | ![amber][014-amber] | ![yellow][015-yellow] | ![lime][016-lime] | ![green][017-green] | ![emerald][018-emerald] | ![teal][019-teal] | ![stone][020-stone] |
+| 013-orange | 014-amber | 015-yellow | 016-lime | 017-green |
+|:-:|:-:|:-:|:-:|:-:|
+| ![orange][013-orange] | ![amber][014-amber] | ![yellow][015-yellow] | ![lime][016-lime] | ![green][017-green] |
 
-| 021-neutral | 022-zinc | 023-gray | 024-slate | 025-git | 026-graphite | 027-basic | 028-dark | 029-light |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ![neutral][021-neutral] | ![zinc][022-zinc] | ![gray][023-gray] | ![slate][024-slate] | ![git][025-git] | ![graphite][026-graphite] | ![basic][027-basic] | ![dark][028-dark] | ![light][029-light] |
+| 018-emerald | 019-teal | 020-stone | 021-neutral | 022-zinc |
+|:-:|:-:|:-:|:-:|:-:|
+| ![emerald][018-emerald] | ![teal][019-teal] | ![stone][020-stone] | ![neutral][021-neutral] | ![zinc][022-zinc] |
+
+| 023-gray | 024-slate | 025-git | 026-graphite | 027-basic |
+|:-:|:-:|:-:|:-:|:-:|
+| ![gray][023-gray] | ![slate][024-slate] | ![git][025-git] | ![graphite][026-graphite] | ![basic][027-basic] |
+
+| 028-dark | 029-light |
+|:-:|:-:|
+| ![dark][028-dark] | ![light][029-light] |
 
 [001-black]: ./asset/logo/png/logo_bp_original_flat_primary_round_001-black_1x.png
 [002-white]: ./asset/logo/png/logo_bp_original_flat_primary_round_002-white_1x.png
