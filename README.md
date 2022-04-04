@@ -3,6 +3,19 @@
 A Design System is a set of interconnected patterns and shared practices
 coherently organized for BEIPE BP brand.
 
+Each logo options exporting on `png` and `svg` format. Options export `svg`
+width is **256px** and `png` width is name suffix `1x` **128px** `2x` **256px**
+`4x` **512px** and `8x` **1024px**.
+
+## LOGO `BP BEIPE ORIGINAL`
+
+This is a `secondary` logo design with one options only `ROUND` and one color
+`BLACK`
+
+![logo-00][00]
+
+[00]: ./asset/logo/png/logo_bp_beipe_original_flat_secondary_round_000-black_2x.png
+
 ## LOGO `BEIPE ORIGINAL`
 
 This is a `default` logo design with two options `SHARP` and `ROUND`
