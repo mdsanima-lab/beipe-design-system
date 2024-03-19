@@ -10,7 +10,7 @@ This is a `secondary` logo design with one options only `ROUND` and one color `B
 
 ![logo-00][00]
 
-[00]: ./asset/logo/png/logo_bp_beipe_original_flat_secondary_round_000-black_2x.png
+[00]: ./assets/logo/png/logo_bp_beipe_original_flat_secondary_round_000-black_2x.png
 
 ## LOGO `BEIPE ORIGINAL`
 
@@ -20,8 +20,8 @@ This is a `default` logo design with two options `SHARP` and `ROUND` variant.
 | :------------: | :------------: |
 | ![logo-01][01] | ![logo-02][02] |
 
-[01]: ./asset/logo/png/logo_beipe_original_flat_default_sharp_003-cyan_2x.png
-[02]: ./asset/logo/png/logo_beipe_original_flat_default_round_003-cyan_2x.png
+[01]: ./assets/logo/png/logo_beipe_original_flat_default_sharp_003-cyan_2x.png
+[02]: ./assets/logo/png/logo_beipe_original_flat_default_round_003-cyan_2x.png
 
 ## LOGO `BP ORIGINAL`
 
@@ -31,9 +31,9 @@ This is a `primary` logo design with three options `SHARP`, `ROUND` and `BALLOON
 | :------------: | :------------: | :------------: |
 | ![logo-03][03] | ![logo-04][04] | ![logo-05][05] |
 
-[03]: ./asset/logo/png/logo_bp_original_flat_primary_sharp_003-cyan_2x.png
-[04]: ./asset/logo/png/logo_bp_original_flat_primary_round_003-cyan_2x.png
-[05]: ./asset/logo/png/logo_bp_original_flat_primary_balloon_003-cyan_2x.png
+[03]: ./assets/logo/png/logo_bp_original_flat_primary_sharp_003-cyan_2x.png
+[04]: ./assets/logo/png/logo_bp_original_flat_primary_round_003-cyan_2x.png
+[05]: ./assets/logo/png/logo_bp_original_flat_primary_balloon_003-cyan_2x.png
 
 ## LOGO `BP MELODY`
 
@@ -43,9 +43,9 @@ This is a `primary` logo design with three options `SHARP`, `ROUND` and `BALLOON
 | :------------: | :------------: | :------------: |
 | ![logo-06][06] | ![logo-07][07] | ![logo-08][08] |
 
-[06]: ./asset/logo/png/logo_bp_melody_flat_primary_sharp_003-cyan_2x.png
-[07]: ./asset/logo/png/logo_bp_melody_flat_primary_round_003-cyan_2x.png
-[08]: ./asset/logo/png/logo_bp_melody_flat_primary_balloon_003-cyan_2x.png
+[06]: ./assets/logo/png/logo_bp_melody_flat_primary_sharp_003-cyan_2x.png
+[07]: ./assets/logo/png/logo_bp_melody_flat_primary_round_003-cyan_2x.png
+[08]: ./assets/logo/png/logo_bp_melody_flat_primary_balloon_003-cyan_2x.png
 
 ## LOGO `BP CIRCLE`
 
@@ -55,13 +55,13 @@ This is a `default` logo design with three options `SHARP`, `ROUND` and `BALLOON
 | :------------: | :------------: | :------------: |
 | ![logo-09][09] | ![logo-10][10] | ![logo-11][11] |
 
-[09]: ./asset/logo/png/logo_bp_circle_flat_default_sharp_003-cyan_2x.png
-[10]: ./asset/logo/png/logo_bp_circle_flat_default_round_003-cyan_2x.png
-[11]: ./asset/logo/png/logo_bp_circle_flat_default_balloon_003-cyan_2x.png
+[09]: ./assets/logo/png/logo_bp_circle_flat_default_sharp_003-cyan_2x.png
+[10]: ./assets/logo/png/logo_bp_circle_flat_default_round_003-cyan_2x.png
+[11]: ./assets/logo/png/logo_bp_circle_flat_default_balloon_003-cyan_2x.png
 
 ## COLORS PALETTE
 
-Colors options for all variants options.
+Color options for all variants.
 
 |      001-black      |      002-white      |
 | :-----------------: | :-----------------: |
@@ -91,32 +91,32 @@ Colors options for all variants options.
 | :---------------: | :-----------------: |
 | ![dark][028-dark] | ![light][029-light] |
 
-[001-black]: ./asset/logo/png/logo_bp_original_flat_primary_round_001-black_1x.png
-[002-white]: ./asset/logo/png/logo_bp_original_flat_primary_round_002-white_1x.png
-[003-cyan]: ./asset/logo/png/logo_bp_original_flat_primary_round_003-cyan_1x.png
-[004-sky]: ./asset/logo/png/logo_bp_original_flat_primary_round_004-sky_1x.png
-[005-blue]: ./asset/logo/png/logo_bp_original_flat_primary_round_005-blue_1x.png
-[006-indigo]: ./asset/logo/png/logo_bp_original_flat_primary_round_006-indigo_1x.png
-[007-violet]: ./asset/logo/png/logo_bp_original_flat_primary_round_007-violet_1x.png
-[008-purple]: ./asset/logo/png/logo_bp_original_flat_primary_round_008-purple_1x.png
-[009-fuchsia]: ./asset/logo/png/logo_bp_original_flat_primary_round_009-fuchsia_1x.png
-[010-pink]: ./asset/logo/png/logo_bp_original_flat_primary_round_010-pink_1x.png
-[011-rose]: ./asset/logo/png/logo_bp_original_flat_primary_round_011-rose_1x.png
-[012-red]: ./asset/logo/png/logo_bp_original_flat_primary_round_012-red_1x.png
-[013-orange]: ./asset/logo/png/logo_bp_original_flat_primary_round_013-orange_1x.png
-[014-amber]: ./asset/logo/png/logo_bp_original_flat_primary_round_014-amber_1x.png
-[015-yellow]: ./asset/logo/png/logo_bp_original_flat_primary_round_015-yellow_1x.png
-[016-lime]: ./asset/logo/png/logo_bp_original_flat_primary_round_016-lime_1x.png
-[017-green]: ./asset/logo/png/logo_bp_original_flat_primary_round_017-green_1x.png
-[018-emerald]: ./asset/logo/png/logo_bp_original_flat_primary_round_018-emerald_1x.png
-[019-teal]: ./asset/logo/png/logo_bp_original_flat_primary_round_019-teal_1x.png
-[020-stone]: ./asset/logo/png/logo_bp_original_flat_primary_round_020-stone_1x.png
-[021-neutral]: ./asset/logo/png/logo_bp_original_flat_primary_round_021-neutral_1x.png
-[022-zinc]: ./asset/logo/png/logo_bp_original_flat_primary_round_022-zinc_1x.png
-[023-gray]: ./asset/logo/png/logo_bp_original_flat_primary_round_023-gray_1x.png
-[024-slate]: ./asset/logo/png/logo_bp_original_flat_primary_round_024-slate_1x.png
-[025-git]: ./asset/logo/png/logo_bp_original_flat_primary_round_025-git_1x.png
-[026-graphite]: ./asset/logo/png/logo_bp_original_flat_primary_round_026-graphite_1x.png
-[027-basic]: ./asset/logo/png/logo_bp_original_flat_primary_round_027-basic_1x.png
-[028-dark]: ./asset/logo/png/logo_bp_original_flat_primary_round_028-dark_1x.png
-[029-light]: ./asset/logo/png/logo_bp_original_flat_primary_round_029-light_1x.png
+[001-black]: ./assets/logo/png/logo_bp_original_flat_primary_round_001-black_1x.png
+[002-white]: ./assets/logo/png/logo_bp_original_flat_primary_round_002-white_1x.png
+[003-cyan]: ./assets/logo/png/logo_bp_original_flat_primary_round_003-cyan_1x.png
+[004-sky]: ./assets/logo/png/logo_bp_original_flat_primary_round_004-sky_1x.png
+[005-blue]: ./assets/logo/png/logo_bp_original_flat_primary_round_005-blue_1x.png
+[006-indigo]: ./assets/logo/png/logo_bp_original_flat_primary_round_006-indigo_1x.png
+[007-violet]: ./assets/logo/png/logo_bp_original_flat_primary_round_007-violet_1x.png
+[008-purple]: ./assets/logo/png/logo_bp_original_flat_primary_round_008-purple_1x.png
+[009-fuchsia]: ./assets/logo/png/logo_bp_original_flat_primary_round_009-fuchsia_1x.png
+[010-pink]: ./assets/logo/png/logo_bp_original_flat_primary_round_010-pink_1x.png
+[011-rose]: ./assets/logo/png/logo_bp_original_flat_primary_round_011-rose_1x.png
+[012-red]: ./assets/logo/png/logo_bp_original_flat_primary_round_012-red_1x.png
+[013-orange]: ./assets/logo/png/logo_bp_original_flat_primary_round_013-orange_1x.png
+[014-amber]: ./assets/logo/png/logo_bp_original_flat_primary_round_014-amber_1x.png
+[015-yellow]: ./assets/logo/png/logo_bp_original_flat_primary_round_015-yellow_1x.png
+[016-lime]: ./assets/logo/png/logo_bp_original_flat_primary_round_016-lime_1x.png
+[017-green]: ./assets/logo/png/logo_bp_original_flat_primary_round_017-green_1x.png
+[018-emerald]: ./assets/logo/png/logo_bp_original_flat_primary_round_018-emerald_1x.png
+[019-teal]: ./assets/logo/png/logo_bp_original_flat_primary_round_019-teal_1x.png
+[020-stone]: ./assets/logo/png/logo_bp_original_flat_primary_round_020-stone_1x.png
+[021-neutral]: ./assets/logo/png/logo_bp_original_flat_primary_round_021-neutral_1x.png
+[022-zinc]: ./assets/logo/png/logo_bp_original_flat_primary_round_022-zinc_1x.png
+[023-gray]: ./assets/logo/png/logo_bp_original_flat_primary_round_023-gray_1x.png
+[024-slate]: ./assets/logo/png/logo_bp_original_flat_primary_round_024-slate_1x.png
+[025-git]: ./assets/logo/png/logo_bp_original_flat_primary_round_025-git_1x.png
+[026-graphite]: ./assets/logo/png/logo_bp_original_flat_primary_round_026-graphite_1x.png
+[027-basic]: ./assets/logo/png/logo_bp_original_flat_primary_round_027-basic_1x.png
+[028-dark]: ./assets/logo/png/logo_bp_original_flat_primary_round_028-dark_1x.png
+[029-light]: ./assets/logo/png/logo_bp_original_flat_primary_round_029-light_1x.png
