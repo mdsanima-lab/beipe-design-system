@@ -1,16 +1,12 @@
-# Design System BEIPE BP
+# BEIPE Design System
 
-A Design System is a set of interconnected patterns and shared practices
-coherently organized for BEIPE BP brand.
+A Design System is a set of interconnected patterns and shared practices coherently organized for BEIPE BP brand.
 
-Each logo options exporting on `png` and `svg` format. Options export `svg`
-width is **256px** and `png` width is name suffix `1x` **128px** `2x` **256px**
-`4x` **512px** and `8x` **1024px**.
+Each logo options exporting on `png` and `svg` format. Options export `svg` width is **256px** and `png` width is name suffix `1x` **128px** `2x` **256px** `4x` **512px** and `8x` **1024px**.
 
 ## LOGO `BP BEIPE ORIGINAL`
 
-This is a `secondary` logo design with one options only `ROUND` and one color
-`BLACK`
+This is a `secondary` logo design with one options only `ROUND` and one color `BLACK` variant.
 
 ![logo-00][00]
 
@@ -18,10 +14,10 @@ This is a `secondary` logo design with one options only `ROUND` and one color
 
 ## LOGO `BEIPE ORIGINAL`
 
-This is a `default` logo design with two options `SHARP` and `ROUND`
+This is a `default` logo design with two options `SHARP` and `ROUND` variant.
 
-| SHARP | ROUND |
-|:-:|:-:|
+|     SHARP      |     ROUND      |
+| :------------: | :------------: |
 | ![logo-01][01] | ![logo-02][02] |
 
 [01]: ./asset/logo/png/logo_beipe_original_flat_default_sharp_003-cyan_2x.png
@@ -29,10 +25,10 @@ This is a `default` logo design with two options `SHARP` and `ROUND`
 
 ## LOGO `BP ORIGINAL`
 
-This is a `primary` logo design with three options `SHARP` `ROUND` and `BALLOON`
+This is a `primary` logo design with three options `SHARP`, `ROUND` and `BALLOON` variant.
 
-| SHARP | ROUND | BALLOON |
-|:-:|:-:|:-:|
+|     SHARP      |     ROUND      |    BALLOON     |
+| :------------: | :------------: | :------------: |
 | ![logo-03][03] | ![logo-04][04] | ![logo-05][05] |
 
 [03]: ./asset/logo/png/logo_bp_original_flat_primary_sharp_003-cyan_2x.png
@@ -41,10 +37,10 @@ This is a `primary` logo design with three options `SHARP` `ROUND` and `BALLOON`
 
 ## LOGO `BP MELODY`
 
-This is a `primary` logo design with three options `SHARP` `ROUND` and `BALLOON`
+This is a `primary` logo design with three options `SHARP`, `ROUND` and `BALLOON` variant.
 
-| SHARP | ROUND | BALLOON |
-|:-:|:-:|:-:|
+|     SHARP      |     ROUND      |    BALLOON     |
+| :------------: | :------------: | :------------: |
 | ![logo-06][06] | ![logo-07][07] | ![logo-08][08] |
 
 [06]: ./asset/logo/png/logo_bp_melody_flat_primary_sharp_003-cyan_2x.png
@@ -53,10 +49,10 @@ This is a `primary` logo design with three options `SHARP` `ROUND` and `BALLOON`
 
 ## LOGO `BP CIRCLE`
 
-This is a `default` logo design with three options `SHARP` `ROUND` and `BALLOON`
+This is a `default` logo design with three options `SHARP`, `ROUND` and `BALLOON` variant.
 
-| SHARP | ROUND | BALLOON |
-|:-:|:-:|:-:|
+|     SHARP      |     ROUND      |    BALLOON     |
+| :------------: | :------------: | :------------: |
 | ![logo-09][09] | ![logo-10][10] | ![logo-11][11] |
 
 [09]: ./asset/logo/png/logo_bp_circle_flat_default_sharp_003-cyan_2x.png
@@ -67,32 +63,32 @@ This is a `default` logo design with three options `SHARP` `ROUND` and `BALLOON`
 
 Colors options for all variants options.
 
-| 001-black | 002-white |
-|:-:|:-:|
+|      001-black      |      002-white      |
+| :-----------------: | :-----------------: |
 | ![black][001-black] | ![white][002-white] |
 
-| 003-cyan | 004-sky | 005-blue | 006-indigo | 007-violet |
-|:-:|:-:|:-:|:-:|:-:|
+|     003-cyan      |     004-sky     |     005-blue      |      006-indigo       |      007-violet       |
+| :---------------: | :-------------: | :---------------: | :-------------------: | :-------------------: |
 | ![cyan][003-cyan] | ![sky][004-sky] | ![blue][005-blue] | ![indigo][006-indigo] | ![violet][007-violet] |
 
-| 008-purple | 009-fuchsia | 010-pink | 011-rose | 012-red |
-|:-:|:-:|:-:|:-:|:-:|
+|      008-purple       |       009-fuchsia       |     010-pink      |     011-rose      |     012-red     |
+| :-------------------: | :---------------------: | :---------------: | :---------------: | :-------------: |
 | ![purple][008-purple] | ![fuchsia][009-fuchsia] | ![pink][010-pink] | ![rose][011-rose] | ![red][012-red] |
 
-| 013-orange | 014-amber | 015-yellow | 016-lime | 017-green |
-|:-:|:-:|:-:|:-:|:-:|
+|      013-orange       |      014-amber      |      015-yellow       |     016-lime      |      017-green      |
+| :-------------------: | :-----------------: | :-------------------: | :---------------: | :-----------------: |
 | ![orange][013-orange] | ![amber][014-amber] | ![yellow][015-yellow] | ![lime][016-lime] | ![green][017-green] |
 
-| 018-emerald | 019-teal | 020-stone | 021-neutral | 022-zinc |
-|:-:|:-:|:-:|:-:|:-:|
+|       018-emerald       |     019-teal      |      020-stone      |       021-neutral       |     022-zinc      |
+| :---------------------: | :---------------: | :-----------------: | :---------------------: | :---------------: |
 | ![emerald][018-emerald] | ![teal][019-teal] | ![stone][020-stone] | ![neutral][021-neutral] | ![zinc][022-zinc] |
 
-| 023-gray | 024-slate | 025-git | 026-graphite | 027-basic |
-|:-:|:-:|:-:|:-:|:-:|
+|     023-gray      |      024-slate      |     025-git     |       026-graphite        |      027-basic      |
+| :---------------: | :-----------------: | :-------------: | :-----------------------: | :-----------------: |
 | ![gray][023-gray] | ![slate][024-slate] | ![git][025-git] | ![graphite][026-graphite] | ![basic][027-basic] |
 
-| 028-dark | 029-light |
-|:-:|:-:|
+|     028-dark      |      029-light      |
+| :---------------: | :-----------------: |
 | ![dark][028-dark] | ![light][029-light] |
 
 [001-black]: ./asset/logo/png/logo_bp_original_flat_primary_round_001-black_1x.png
